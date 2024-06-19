@@ -1,5 +1,5 @@
 # Case studies 📊
 
-1. Anayzing Job Market Data
+1. Job Market Analysis
    
 3. 
